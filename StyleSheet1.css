@@ -1,0 +1,19 @@
+﻿body {
+}
+
+<<<<<<< HEAD
+/*.First-Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+*/
+=======
+.First-Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+}
+>>>>>>> a9d60e85d05a769900e4d97f37e4246353b5e06c
